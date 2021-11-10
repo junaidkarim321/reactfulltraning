@@ -1,0 +1,16 @@
+{
+    "blogs":[
+       {
+           "tilte":"my first blog",
+           "body":"why do we use it/nte is long established fact a reander will be  distaraction",
+           "author":"mario",
+           "id":1   
+       },
+       {
+        "tilte":"opening party",
+        "body":"why do we use it/nte is long established fact a reander will be  distaraction",
+        "author":"yoshi",
+        "id":2  
+       }
+    ]
+}
